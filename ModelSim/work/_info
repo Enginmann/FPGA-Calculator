@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/Apps
+vCalculator
+Z0 !s110 1734901578
+!i10b 1
+!s100 =AP>?HI;:`cTgLlO:Si8h0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBNTW6RUREaogN[Kb2R_MM3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/Studying/Logic Design/Project/Calculator/ModelSim
+w1734901395
+8G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator.v
+FG:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator.v
+!i122 28
+L0 1 230
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1734901577.000000
+!s107 G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@calculator
+vCalculator_tb
+R0
+!i10b 1
+!s100 :M?4_fHCFB]h<WV^oXL2J2
+R1
+IfmlG5_Rz`GbzzCVBjVbM90
+R2
+R3
+w1734901571
+8G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator_tb.v
+FG:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator_tb.v
+!i122 29
+L0 1 83
+R4
+r1
+!s85 0
+31
+!s108 1734901578.000000
+!s107 G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator_tb.v|
+!i113 1
+R5
+R6
+n@calculator_tb

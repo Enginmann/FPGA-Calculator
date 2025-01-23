@@ -1,0 +1,15 @@
+{G:/Studying/Logic Design/Project/Calculator/ModelSim/Calculator_tb.v} {1 {vlog -work work -stats=none {G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Calculator_tb
+
+Top level modules:
+	Calculator_tb
+
+} {} {}} {G:/Studying/Logic Design/Project/Calculator/ModelSim/Calculator.v} {1 {vlog -work work -stats=none {G:\Studying\Logic Design\Project\Calculator\ModelSim\Calculator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Calculator
+
+Top level modules:
+	Calculator
+
+} {} {}}

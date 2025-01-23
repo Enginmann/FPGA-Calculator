@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "display_input[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display_input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display_hundreds[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display_tens[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display_ones[6]",
+					"strict" : false
+				},
+				{
+					"name" : "div_by_zero_led",
+					"strict" : false
+				},
+				{
+					"name" : "result_zero_led",
+					"strict" : false
+				},
+				{
+					"name" : "input_negative_led",
+					"strict" : false
+				},
+				{
+					"name" : "result_negative_led",
+					"strict" : false
+				},
+				{
+					"name" : "number[1]",
+					"strict" : false
+				},
+				{
+					"name" : "number[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "operation[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sign",
+					"strict" : false
+				},
+				{
+					"name" : "operation[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
